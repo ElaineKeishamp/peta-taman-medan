@@ -2,7 +2,7 @@
 
 Peta interaktif taman dan ruang terbuka hijau di Kota Medan. Projek SIG Web tahap 1, dibuat dengan Leaflet.
 
-**Live demo:** https://elainekeishamp.github.io/peta-taman-medan/
+**Live demo:** https://elainekeishamp.github.io/index.html/
 
 ## Tujuan
 
